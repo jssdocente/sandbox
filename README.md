@@ -1,8 +1,12 @@
 # sandbox
 Proyecto base para hacer pruebas
 
-### Nueva interface
-
-Creada nueva pantalla
+### Nueva Interfaz
+creada nueva pantalla
 
 Otra pantalla
+
+Coral Delgado 
+=======
+
+
